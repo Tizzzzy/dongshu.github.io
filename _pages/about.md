@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Dong Shu"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Dong Shu, a Master's student in Computer Science at Northwestern University. I previously earned my Bachelor's degree in Computer Science from Rutgers University.
+
+Currently, I work closely with [Prof. Yongfeng Zhang](https://yongfeng.me/), [Prof. Mengnan Du](https://mengnandu.com/), and [Prof. David Demeter](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/demeter-david.html) on projects spanning various fields. My research interests are diverse yet interconnected, focusing on applying large language models (LLMs) across multiple domains, including AI4Science, multimodal AI, AI applications in law and biology, and explainable AI.
 
 A data-driven personal website
 ======
