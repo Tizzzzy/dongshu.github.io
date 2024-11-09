@@ -13,7 +13,7 @@ Currently, I work closely with [Prof. Yongfeng Zhang](https://yongfeng.me/), [Pr
 
 News
 ======
-* [11/2024] One paper was ranked in the top 13.6% of submissions by AAAI Student Abstract 2025
+* [11/2024] One paper ranked in top 13.6% of submissions by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by IEEE BigData Workshop 2024
 * [09/2024] One paper accepted by ACML 2024
