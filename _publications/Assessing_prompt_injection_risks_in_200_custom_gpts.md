@@ -2,7 +2,7 @@
 title: "Assessing prompt injection risks in 200+ custom gpts"
 collection: publications
 category: twenty_four
-permalink: https://arxiv.org/pdf/2311.11538
+permalink: /publication/Assessing_prompt_injection_risks_in_200_custom_gpts.md
 date: 2024
 venue: 'ICLR Workshop'
 slidesurl: # None
