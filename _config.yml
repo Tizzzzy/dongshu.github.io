@@ -21,7 +21,7 @@ repository               : "Tizzzzy/dongshu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "site-logo.png"
   name             : "Dong Shu"
   pronouns         : # example: "she/her"  
   bio              : "Master Student in Northwestern University"
