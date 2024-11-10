@@ -2,7 +2,7 @@
 title: "The Impact of Reasoning Step Length on Large Language Models"
 collection: publications
 category: twenty_four
-date: 2024-10-01
+date: 2024-10-02
 venue: 'ACL Finding'
 slidesurl: # None
 paperurl: 'https://arxiv.org/pdf/2401.04925'
