@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Life is not just about working & studying!!!"
+title: "Life isn’t just about working and studying!!!"
 permalink: /my_life/
 author_profile: true
 redirect_from:
@@ -15,9 +15,16 @@ Workout:
   <source src="../my_life/workout.mp4" type="video/mp4">
 </video>
 
+Basketball:
+======
+<img src="../my_life/basketball_1.jpg" alt="Fishing Image" width="400" height="300">
+
 Fishing:
 ======
 <img src="../my_life/fish_1.jpg" alt="Fishing Image" width="400" height="300">
+<img src="../my_life/fish_2.jpg" alt="Fishing Image" width="400" height="300">
+<img src="../my_life/fish_3.jpg" alt="Fishing Image" width="400" height="300">
+<img src="../my_life/fish_4.jpg" alt="Fishing Image" width="400" height="300">
 
 Painting:
 ======
