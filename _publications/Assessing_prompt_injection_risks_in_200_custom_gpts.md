@@ -7,5 +7,5 @@ date: 2024-10-01
 venue: 'ICLR Workshop'
 slidesurl: # None
 paperurl: 'https://arxiv.org/pdf/2311.11538'
-citation: Yu, Jiahao, Yuhang Wu, Dong Shu, Mingyu Jin, Sabrina Yang, and Xinyu Xing. "Assessing prompt injection risks in 200+ custom gpts." arXiv preprint arXiv:2311.11538 (2023).
+citation: Yu, Jiahao, Yuhang Wu, <strong>Dong Shu</strong>, Mingyu Jin, Sabrina Yang, and Xinyu Xing. "Assessing prompt injection risks in 200+ custom gpts." arXiv preprint arXiv:2311.11538 (2023).
 ---
