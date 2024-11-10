@@ -17,8 +17,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "My Life"
+    url: /my_life/
     
   - title: "CV"
     url: /dongshu_resume.pdf
