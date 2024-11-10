@@ -15,10 +15,6 @@ Workout:
   <source src="../my_life/workout.mp4" type="video/mp4">
 </video>
 
-Basketball:
-======
-<img src="../my_life/basketball_1.jpg" alt="Fishing Image" width="400" height="300">
-
 Fishing:
 ======
 <img src="../my_life/fish_1.jpg" alt="Fishing Image" width="400" height="300">
@@ -34,6 +30,10 @@ Painting:
 <img src="../my_life/4.jpg" alt="Painting Image" width="400" height="300">
 <img src="../my_life/5.jpg" alt="Painting Image" width="400" height="300">
 <img src="../my_life/6.jpg" alt="Painting Image" width="400" height="300">
+
+Basketball:
+======
+<img src="../my_life/basketball_1.jpg" alt="Fishing Image" width="400" height="300">
 
 Adventure:
 ======
