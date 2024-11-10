@@ -16,6 +16,7 @@ News
 * [11/2024] One paper ranked in top 13.6% of submissions by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by IEEE BigData Workshop 2024
+* [10/2024] Oral presentation in CIKM 2024 conference
 * [09/2024] One paper accepted by ACML 2024
 * [07/2024] One paper accepted by CIKM 2024
 * [07/2024] One paper accepted by ECAI 2024
