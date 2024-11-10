@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Life is not just about working & studying"
+title: "Life is not just about working & studying!!!"
 permalink: /my_life/
 author_profile: true
 redirect_from:
@@ -24,6 +24,21 @@ Painting:
 <img src="../my_life/1.jpg" alt="Painting Image" width="400" height="300">
 <img src="../my_life/2.jpg" alt="Painting Image" width="400" height="300">
 <img src="../my_life/3.jpg" alt="Painting Image" width="400" height="300">
+<img src="../my_life/4.jpg" alt="Painting Image" width="400" height="300">
+<img src="../my_life/5.jpg" alt="Painting Image" width="400" height="300">
+<img src="../my_life/6.jpg" alt="Painting Image" width="400" height="300">
+
+Adventure:
+======
+<video width="560" height="315" controls>
+  <source src="../my_life/advanture_1.mp4" type="video/mp4">
+</video>
+
+Travel:
+======
+<video width="560" height="315" controls>
+  <source src="../my_life/travel_1.mp4" type="video/mp4">
+</video>
 
 Cooking:
 ======
