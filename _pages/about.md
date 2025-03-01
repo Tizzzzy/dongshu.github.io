@@ -13,6 +13,7 @@ Currently, I work closely with [Prof. Yongfeng Zhang](https://yongfeng.me/), [Pr
 
 News
 ======
+* [02/2025] One paper pre-accepted by Cell Patterns
 * [11/2024] One paper ranked in top 13.6% of submissions by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by AAAI Student Abstract 2025
 * [11/2024] One paper accepted by IEEE BigData Workshop 2024
